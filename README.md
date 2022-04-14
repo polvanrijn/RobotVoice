@@ -9,6 +9,12 @@ pip install opencv-python
 pip install matplotlib
 ```
 
+## Scraping for robots
+To create a json with all meta information from the robots listed at https://robots.ieee.org/robots/, run:
+```
+python scrape_ieee.py 
+```
+
 ## Selecting the robots
 To select the images for the robots, run the following script. 
 ```shell
