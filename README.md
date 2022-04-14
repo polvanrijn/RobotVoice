@@ -7,6 +7,8 @@ Setup a virtual environment and install the dependencies:
 ```shell
 pip install opencv-python
 pip install matplotlib
+pip install beautifulsoup4
+pip install requests
 ```
 
 ## Scraping for robots
